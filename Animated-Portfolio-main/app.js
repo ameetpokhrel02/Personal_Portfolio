@@ -23,7 +23,8 @@ videoList.forEach(function(video) {
 
     video.addEventListener("mouseout", function() {
         video.pause(); // Pause video when not hovering
-        hoverSign.classList.remove("active"); // Hide hover sign
+        // Hide hover sign
+        hoverSign.classList.remove("active"); 
     });
 });
 
