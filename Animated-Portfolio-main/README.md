@@ -16,9 +16,7 @@ Hi! I'm **Amit Pokhrel**, a passionate UI/UX designer and full-stack web develop
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML, CSS, JavaScript, Flutter
-- **Backend:** Node.js, Django, Python, Java Servlet, JSP
-- **Database:** MongoDB, MySQL
+- **Frontend:** HTML, CSS, JavaScript.
 - **Tools:** VS Code, Git, Figma, Adobe XD
 - **Others:** AOS (Animate on Scroll), Boxicons
 
